@@ -1,0 +1,10 @@
+2018-07-28 15:46:51,019 DEBUG by.epam.classes.transport.run.TrainRunner Start program.
+2018-07-28 15:46:51,031 DEBUG by.epam.classes.transport.util.data.Reader Read process from data/DataFile was successful.
+2018-07-28 15:46:51,046 DEBUG by.epam.classes.transport.run.WagonsDirector Wagons were created successful. Wagons amount is - 5
+2018-07-28 15:46:51,049 DEBUG by.epam.classes.transport.util.Calculator Passenger amount calculated - 90
+2018-07-28 15:46:51,049 DEBUG by.epam.classes.transport.util.Calculator Baggage amount calculated - 80
+2018-07-28 15:46:51,051 DEBUG by.epam.classes.transport.util.Searcher List was found successfully - [CoachWagon{producerName='Siemens', year=2004, lengthInMeters=10 peopleCapacity=30 hasWiFi=true}, CoachWagon{producerName='Siemens', year=2010, lengthInMeters=15 peopleCapacity=40 hasWiFi=true}]
+2018-07-28 15:46:51,051 DEBUG by.epam.classes.transport.util.Searcher List was found successfully - [CoachWagon{producerName='Siemens', year=2010, lengthInMeters=15 peopleCapacity=40 hasWiFi=true}]
+2018-07-28 15:46:51,054 DEBUG by.epam.classes.transport.util.Sorter Wagons in train were sorted
+2018-07-28 15:46:51,055 DEBUG by.epam.classes.transport.util.Sorter Wagons in train were sorted
+2018-07-28 15:46:51,055 DEBUG by.epam.classes.transport.run.TrainRunner Program finished successfully.

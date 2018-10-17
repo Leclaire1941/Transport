@@ -1,0 +1,6 @@
+PASSENGER: Siemens, 2004, 10, 30, true
+HelloWorld: strange situation
+PASSENGER: Siemens, 2010, 15, 40, true
+CARGO: Caterpillar, 2006, 20, 30
+PASSENGER: Siemens, 1995, 5, 20, false
+CARGO: Caterpillar, 2009, 30, 50
